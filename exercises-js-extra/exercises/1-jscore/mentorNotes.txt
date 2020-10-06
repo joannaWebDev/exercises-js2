@@ -1,0 +1,66 @@
+PPT types of variables
+
+<cómo se declaran> var, let, const
+talk about VC autocomplete of methods
+string -> concatenation ( a + " x " b, `${a} x ${b}` )
+
+
+https://migracode-barcelona.github.io/syllabus/js-core-3/week-10/lesson.html
+
+1. array names
+
+explain for and foreach
+talk about visual code autocomplete in for
+
+2.array names and surnames
+in foreach explain arrow functions
+explain what is element or teammember
+
+
+3.exercise to understand functions, same code n times wit a console.log
+make he same with an arrow function
+tal about the scope
+
+4. write a function that giving a score and assistance give a console.log pass or not
+if score is greater or equal to 6 and assistance is greater to 80%
+but if score is greater or equal 9 you pass direcly, or if your assistance is < 80 you don't pass
+
+function messageToStudent(name,score,assistance){
+    var message = "";
+    //your code here
+    return message;
+}
+
+console.log(messageToStudent("Angelo",9,80)); //Angelo you pass the course
+console.log(messageToStudent("Carlos",6,80)); //Angelo you pass the course
+
+
+
+5. max
+6. sum
+7. array find -> explain function return, the input array does not change
+8. array filter
+9. array map,foreach
+10. map, foreach
+
+
+
+
+functiones ES5/ES6 /return finishes the function code
+
+if, else  y Logical Operators
+||, && , !
+
+
+
+logic exercises
+max
+sum
+
+
+understanding why exist this methods
+find
+filter
+foreach
+map
+
