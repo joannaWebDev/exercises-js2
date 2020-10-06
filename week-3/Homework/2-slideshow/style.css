@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,400;1,700&display=swap');
+
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    }
+
+body {
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  color: #020F14;
+  text-align: inherit;
+  overflow-y: auto;
+  /* Add the ability to scroll */
+  overflow-x: hidden;
+  margin: 1rem auto;
+  background-color: #F5F6F0;
+}
+
+div {
+    margin: 2em auto;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.slideshow-container {
+  margin: 10px;
+}
+
+button {
+    margin: 2em auto;
+    padding: 1em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
